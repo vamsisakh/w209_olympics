@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Agency v1.1.1 (http://startbootstrap.com/template-overviews/agency)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+.navbar-header {
+color:black;
+}
+
+.intro {
+height:100vh;
+
+}
+.intro-pic {
+padding-top: 100px;
+width:80%;
+margin: auto;
+display:block;
+}
+
+.intro-heading {
+padding-top: 20px;
+font-family: sans-serif;
+color:black; 
+font-size:3em;
+text-align: center;
+}
+
+.intro-lead-in {
+font-family: sans-serif;
+color:black; 
+font-style: italic;
+font-size:2em;
+text-align: center;
+}
+
+#about {
+height:100vh;
+padding-top: 100px;
+}
+
+#lead {
+height:100vh;
+padding-top: 100px;
+}
+
+#vis {
+height:100vh;
+padding-top: 10px;
+}
+
+#team {
+height:100vh;
+padding-top: 100px;
+}
